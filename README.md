@@ -33,6 +33,10 @@
  ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
  ![AndroidStudio](https://img.shields.io/badge/Android_Studio-5BD000?style=for-the-badge&logo=android%20studio&logoColor=white)
  ![Postman](https://img.shields.io/badge/Postman-FFFFFF?style=for-the-badge&logo=Postman&logoColor=red)
+ 
+ ## Others :male_detective:
+
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 
 ## Studying Now :student: :technologist:
