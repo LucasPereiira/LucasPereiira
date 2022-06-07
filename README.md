@@ -33,6 +33,7 @@
  ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
  ![AndroidStudio](https://img.shields.io/badge/Android_Studio-5BD000?style=for-the-badge&logo=android%20studio&logoColor=white)
  ![Postman](https://img.shields.io/badge/Postman-FFFFFF?style=for-the-badge&logo=Postman&logoColor=red)
+ ![SublimeText](https://img.shields.io/badge/Sublime_Text-FFFFFF?style=for-the-badge&logo=sublime%20text&Color=yellow)
  
  ## Others :male_detective:
 
@@ -42,7 +43,8 @@
 ## Studying Now :student: :technologist:
 
 ![VUE.js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=0000)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/C-%23239120.svg?style=for-the-badge&logo=c&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
