@@ -17,8 +17,8 @@
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![PHP](https://img.shields.io/badge/PHP-52628F?style=for-the-badge&logo=PHP&logoColor=white)
+![VUE.js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=0000)
 
 ## Database  :memo: 	:floppy_disk:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -31,23 +31,25 @@
  
  ![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
  ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
- ![AndroidStudio](https://img.shields.io/badge/Android_Studio-5BD000?style=for-the-badge&logo=android%20studio&logoColor=white)
- ![Postman](https://img.shields.io/badge/Postman-FFFFFF?style=for-the-badge&logo=Postman&logoColor=red)
+ ![AndroidStudio](https://img.shields.io/badge/Android_Studio-5BD000?style=for-the-badge&logo=android%20studio&logoColor=white) 
  ![SublimeText](https://img.shields.io/badge/Sublime_Text-FFFFFF?style=for-the-badge&logo=sublime%20text&Color=yellow)
  
  ## Others :male_detective:
 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FFFFFF?style=for-the-badge&logo=Postman&logoColor=red)
 
 
 ## Studying Now :student: :technologist:
 
-![VUE.js](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=0000)
+
 ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-%23239120.svg?style=for-the-badge&logo=c&logoColor=white)
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![ReactNative](https://img.shields.io/badge/React-0078D4?style=for-the-badge&logo=React&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+![ReactNative](https://img.shields.io/badge/ReactNative-0078D4?style=for-the-badge&logo=React&logoColor=white)
 
 ![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasPereiira&theme=dark&show_icons=true)
 
